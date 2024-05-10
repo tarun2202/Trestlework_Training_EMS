@@ -1,0 +1,6 @@
+.hoverable:hover {
+    cursor: pointer;
+    color: #007bff; /* Change text color on hover */
+    text-decoration: underline; /* Add underline on hover */
+  }
+  
