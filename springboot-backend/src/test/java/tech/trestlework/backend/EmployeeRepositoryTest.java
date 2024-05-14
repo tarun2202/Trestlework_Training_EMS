@@ -39,6 +39,5 @@ public class EmployeeRepositoryTest {
         assertEquals(employee, foundEmployeeOptional.orElse(null));
     }
 
-    // Similarly, write tests for other custom methods or queries if present in the EmployeeRepository interface
 }
 
